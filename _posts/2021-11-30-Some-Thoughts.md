@@ -15,4 +15,6 @@ There are many frustrations that I face due to the conflicts of my major and the
 
 Failure helps us to grow stronger and become better person.
 
-Come on boy: Clear your mind and reset your mood, and move on the path you have chosen. Your life has only one chance, don't  make any decision that will make your regret.
+Come on boy: Clear your mind and reset your mood, and move forward on the path you have chosen. We only has one chance to live our life, so we'd better not  make any decisions that will make ourselves regret. Focus and do what you can do and what you should do for the current moment man.
+
+The heart is too noisy, too many sounds, too many worries, and too many emotions. We should clear them all out. I probably know what I should do, but I may fail to do what I suppose to do though.
