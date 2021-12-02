@@ -3,6 +3,8 @@ title: "Some Thoughts"
 date: 2021-12-1
 ---
 
+
+
 ### About Decision Making
 
 Being independent and responsible for oneself is to a large extend about how he or she can make decisions that is probably that is "the optimized choice for him or her at the moment". 
