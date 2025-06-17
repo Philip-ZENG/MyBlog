@@ -308,7 +308,9 @@ date: 2025-06-17
 
 - 人工神经网络是一种模仿人类大脑神经系统的机构和工作原理的算法。神经网络中的每一个单元，被称之为神经元（Neuron/Cell）。最核心的思想是，如果我们相信人工神经元和人类大脑神经元是差不多的东西，那么它会给我们信心，我们可以用非常大的人工神经网络去做人类能做到的事情（人类大概有86-100B神经元，这对应着100-1000T个神经元之间的连接；DeepSeek-R1模型有685B参数，对于简单的人工神经网络来说，每两个神经元之间的连接就对应了一个参数）。
 
-  <img src="image/1_1_3/human_neurons.png" style="zoom:40%;" /><img src="image/1_1_3/artificial_neurons.png" style="zoom:40%;" />
+  <img src="image/1_1_3/human_neurons.png" style="zoom:40%;" />
+
+  <img src="image/1_1_3/artificial_neurons.png" style="zoom:40%;" />
 
 - 每个神经元当中都会进行某种数学计算，其中数学计算涉及的参数（Parameters）也被称为权重（Weights）。
 
@@ -316,7 +318,9 @@ date: 2025-06-17
 
 - 将多个神经元连接起来，就会变成一个层（Layer），将多个层堆叠起来就会变成一个网络（Network）。在输入层和输出层中间的层被称为隐藏层（Hidden Layer），其工作是将输入的特征进行提取（概括/总结/提取），下图是一个示例，隐藏层将输入的价格、成本等信息抽象成可负担性、品牌认知等信息，最终输出一个概率预测。
 
-  <img src="image/1_1_3/selling_prediction_nn.png" style="zoom:35%;" /><img src="image/1_1_3/feed_forward_nn.png" style="zoom:35%;" />
+  <img src="image/1_1_3/selling_prediction_nn.png" style="zoom:35%;" />
+
+  <img src="image/1_1_3/feed_forward_nn.png" style="zoom:35%;" />
 
 - 人工神经网络和人脑一样是一个“黑箱”（Black Box），我们虽然可以观察到每个神经元中的参数，但却无法解释其含义，在上述例子中的“可负担性、品牌认知”等特征只是我们猜测/想象出来的“含义”。神经网络的这一特征带来了一些挑战，即无法解释的东西是存在风险的，是无法被溯源和追溯责任的，在一些领域，如医疗、金融等看重可解释性、可问责性（Accountability）、可信度的领域，神经网络的使用存在较大限制。比如说，对于国内的银行信贷风险评估模型，业界会更倾向于使用可解释性更强，但预测准确性更弱的逻辑回归（Logistic Regression）模型，而非可解释性弱但预测准确性更高的神经网络模型。更多内容请见[章节1.3.5](#1.3.5 可解释的AI与安全的AI)。
 
