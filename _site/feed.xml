@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-18T18:15:01+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Philip’s Blog</title><subtitle>The bloger will share his life experience and thinkings
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-18T18:35:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Philip’s Blog</title><subtitle>The bloger will share his life experience and thinkings
 </subtitle><author><name>Philip ZENG</name></author><entry><title type="html">AI Insight Report</title><link href="http://localhost:4000/2025/06/17/aireport.html" rel="alternate" type="text/html" title="AI Insight Report" /><published>2025-06-17T00:00:00+08:00</published><updated>2025-06-17T00:00:00+08:00</updated><id>http://localhost:4000/2025/06/17/aireport</id><content type="html" xml:base="http://localhost:4000/2025/06/17/aireport.html"><![CDATA[<p><img src="/image/cover_page_1.png" alt="" /></p>
 
 <h1 id="1-ai科技">1. AI科技</h1>
@@ -593,8 +593,8 @@
 </ul>
 
 <blockquote>
-  <p>[!IMPORTANT]</p>
-
+  <p>[!IMPORTANT]
+Take Away</p>
   <ul>
     <li>模型性能方面，2024年下半年开始，OpenAI对Google/Anthropic的领先优势保持区间从6个月缩短至2个月，开源玩家如DeepSeek/Alibaba/Meta对OpenAI的优势也发起了冲击，OpenAI对中国及开源AI企业的领先保持区间缩短至4个月以内，AI大模型进入群雄争霸时代。</li>
     <li>deepseek-r1-0529版本在文字理解和推理、代码能力上追平o3/gemini-2.5-pro/claude-4-sonnet水平。值得注意的是，deepseek-r1-0529在用于检验模型幻觉的SimpleQA测试集中的表现与o3/gemini-2.5-pro仍有较大的差距，三者在该测试集上的表现依次为27.8%/49.4%/50.8%。</li>
@@ -840,16 +840,16 @@
 </ul>
 
 <blockquote>
-  <p>[!IMPORTANT]</p>
-
+  <p>[!IMPORTANT]
+Take Away</p>
   <ul>
     <li>基础模型训练资金需求大，大部分初创企业以及科研机构难以在这场Scaling Up的资本竞争中击败大厂脱颖而出。大部分初创企业寻求AI在细分领域/场景的应用方面的商业机会更大。</li>
   </ul>
 </blockquote>
 
 <blockquote>
-  <p>[!TIP]</p>
-
+  <p>[!TIP]
+Todo</p>
   <ul>
     <li>Scaling Law有上限吗？
       <ul>
@@ -896,8 +896,8 @@
 </ul>
 
 <blockquote>
-  <p>[!IMPORTANT]</p>
-
+  <p>[!IMPORTANT]
+Take Away</p>
   <ul>
     <li>神经网络是一个”黑箱”，缺乏可解释性，该特点可能在一些透明度非常重要的领域限制其应用。</li>
     <li>我觉得限制黑箱模型在某些领域应用的原因最大的还是”责任由谁来承担的问题”，因为人类大脑也是黑箱，如果人工大脑可以做到比人类大脑更低的失误率，某种意义上它就是比人类更优秀的员工。</li>
@@ -1202,8 +1202,8 @@
 </ul>
 
 <blockquote>
-  <p>[!TIP]</p>
-
+  <p>[!TIP]
+Todo</p>
   <ul>
     <li>在图像生成领域的重要模型Diffusion Model，也可以应用于语言生成、具身智能的VLA模型、World Model架构中
       <ul>
@@ -1458,8 +1458,8 @@
 </ul>
 
 <blockquote>
-  <p>[!TIP]</p>
-
+  <p>[!TIP]
+Todo</p>
   <ul>
     <li>RLHF的新进展Reinforcement Learning from verifiable rewards (RLVR)</li>
     <li>RAG
@@ -1550,8 +1550,8 @@
 </ul>
 
 <blockquote>
-  <p>[!TIP]</p>
-
+  <p>[!TIP]
+Todo</p>
   <ul>
     <li>提示词（Prompting）工程</li>
     <li>Lilian Weng, Ex-VP, AI Safety &amp; robotics, applied research @OpenAI: <a href="https://lilianweng.github.io/posts/2025-05-01-thinking/">Why We Think</a></li>
@@ -1923,8 +1923,8 @@
 </ul>
 
 <blockquote>
-  <p>[!TIP]</p>
-
+  <p>[!TIP]
+Todo</p>
   <ul>
     <li>Agent公司都解决了什么问题，为什么可以用AI做一遍自动化的工具？
       <ul>

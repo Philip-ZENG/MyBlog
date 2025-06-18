@@ -152,6 +152,55 @@ layout: default
   border-bottom-color: #007acc;
 }
 
+/* Callout blocks styling */
+.post-content blockquote {
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-radius: 8px;
+  border-left: 4px solid #6c757d;
+  background: #f8f9fa;
+  position: relative;
+  font-style: normal !important;
+}
+
+.post-content blockquote.important {
+  border-left-color: #dc3545;
+  background: linear-gradient(135deg, #fff5f5 0%, #ffe6e6 100%);
+  border: 1px solid #ffcccc;
+  font-style: normal !important;
+}
+
+.post-content blockquote.important > p:first-child {
+  font-weight: bold;
+  color: #dc3545;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+  font-style: normal !important;
+}
+
+.post-content blockquote.tip {
+  border-left-color: #28a745;
+  background: linear-gradient(135deg, #f0fff4 0%, #e6ffe6 100%);
+  border: 1px solid #c3e6cb;
+  font-style: normal !important;
+}
+
+.post-content blockquote.tip > p:first-child {
+  font-weight: bold;
+  color: #28a745;
+  margin-bottom: 0.5em;
+  font-size: 1.1em;
+  font-style: normal !important;
+}
+
+/* Ensure all text in callout blocks is not italic */
+.post-content blockquote p,
+.post-content blockquote li,
+.post-content blockquote ul,
+.post-content blockquote ol {
+  font-style: normal !important;
+}
+
 .toc-container {
   position: fixed;
   top: 100px;
@@ -535,5 +584,23 @@ document.addEventListener('DOMContentLoaded', function() {
       }, 100);
     }
   }
+
+  // Style callout blocks (IMPORTANT and TIP)
+  document.querySelectorAll('.post-content blockquote').forEach(blockquote => {
+    const firstParagraph = blockquote.querySelector('p:first-child');
+    if (firstParagraph) {
+      const text = firstParagraph.textContent.trim();
+
+      if (text.includes('[!IMPORTANT]') || text.includes('!IMPORTANT') || text.includes('IMPORTANT')) {
+        blockquote.classList.add('important');
+        // Remove the [!IMPORTANT] text from display
+        firstParagraph.innerHTML = firstParagraph.innerHTML.replace(/\[!IMPORTANT\]|!IMPORTANT|IMPORTANT/g, '').trim();
+      } else if (text.includes('[!TIP]') || text.includes('!TIP') || text.includes('TIP')) {
+        blockquote.classList.add('tip');
+        // Remove the [!TIP] text from display
+        firstParagraph.innerHTML = firstParagraph.innerHTML.replace(/\[!TIP\]|!TIP|TIP/g, '').trim();
+      }
+    }
+  });
 });
 </script>
