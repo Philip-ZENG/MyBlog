@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-19T09:58:48+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Philip’s Blog</title><subtitle>The bloger will share his life experience and thinkings
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-19T20:06:32+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Philip’s Blog</title><subtitle>The bloger will share his life experience and thinkings
 </subtitle><author><name>Philip ZENG</name></author><entry><title type="html">AI Insight Report</title><link href="http://localhost:4000/2025/06/17/aireport.html" rel="alternate" type="text/html" title="AI Insight Report" /><published>2025-06-17T00:00:00+08:00</published><updated>2025-06-17T00:00:00+08:00</updated><id>http://localhost:4000/2025/06/17/aireport</id><content type="html" xml:base="http://localhost:4000/2025/06/17/aireport.html"><![CDATA[<p><img src="/image/cover_page_1.png" alt="" /></p>
 
 <h1 id="1-ai科技">1. AI科技</h1>
@@ -510,9 +510,7 @@
 <h4 id="1112-大语言模型发展趋势">1.1.1.2 大语言模型发展趋势</h4>
 
 <ul>
-  <li>
-    <p>AI正在逐步超越人类</p>
-
+  <li>AI正在逐步超越人类
     <ul>
       <li>
         <p>在数学能力、阅读理解推理能力、科学问题回答方面，AI模型已经在诸多测试中超越了人类的表现。这将带来持续且深远的社会变革、挑战以及担忧。</p>
@@ -521,9 +519,7 @@
       </li>
     </ul>
   </li>
-  <li>
-    <p>开源与闭源大模型性能差距缩窄</p>
-
+  <li>开源与闭源大模型性能差距缩窄
     <ul>
       <li>
         <p>详细模型表现对比记录在该文件中：<a href="/appendix/llm_performance_tracking.xlsx">LLM模型表现差异</a></p>
@@ -534,7 +530,6 @@
       </li>
       <li>
         <p>开源模型领域，国外的主要玩家是Meta的Llama模型系列</p>
-
         <ul>
           <li>2022年11月GPT-3.5发布，2023年7月Meta发布的llama-2-70b模型在语言和推理能力上接近GPT-3.5，在代码能力上显著落后于GPT-3.5，时间差为8个月。</li>
           <li>2023年3月GPT-4发布，2024年4月Meta发布的llama-3-70b模型在语言和推理能力上接近GPT-4，在代码能力上追平GPT-3.5，时间差为1年。</li>
@@ -544,9 +539,7 @@
       </li>
     </ul>
   </li>
-  <li>
-    <p>中国与美国大模型性能差距缩窄</p>
-
+  <li>中国与美国大模型性能差距缩窄
     <ul>
       <li>
         <p>详细模型表现对比记录在该文件中：<a href="/appendix/llm_performance_tracking.xlsx">LLM模型表现差异</a></p>
@@ -557,7 +550,6 @@
       </li>
       <li>
         <p>OpenAI的模型在2022.12-2024.5期间内领先于中国玩家一个较为明显的身位，此后差距迅速缩窄</p>
-
         <ul>
           <li>2022年11月GPT-3.5发布，2023年11月阿里巴巴qwen-72b模型在语言和推理能力上接近GPT-3.5；2024年1月DeepSeek发布的deepseek-llm-67b语言、推理和代码能力接近GPT-3.5。模型表现追平时间差为1年左右。</li>
           <li>2023年3月GPT-4发布，2024年5月DeepSeek发布的deepseek-v2在语言和推理能力上初步接近GPT-4，代码能力与GPT-4仍有差距；2024年6月，阿里巴巴qwen-2-72b在语言和推理能力上初步接近GPT-4，代码能力与GPT-4持平。模型表现追平时间差为1年左右。</li>
@@ -567,27 +559,17 @@
       </li>
     </ul>
   </li>
-  <li>
-    <p>头部玩家的竞争格局</p>
-
+  <li>头部玩家的竞争格局
     <ul>
       <li>
         <p>头部大语言模型的表现</p>
 
         <p><img src="/image/1_1_1/top_ai_models.png" style="zoom:33%;" /></p>
       </li>
-      <li>
-        <p>2023年3月OpenAI发布GPT-4，Anthropic在2023年7月发布的claude-2在语言理解和推理能力上接近GPT-4；Google在2023年12月发布的gemini-1-ultra在语言理解和推理、编程能力上接近GPT-4；Anthropic在2024年2月发布的claude-3-opus在语言理解和推理能力、编程能力上超越GPT-4；Google在2024年2月发布的gemini-1.5-pro在语言理解和推理能力、编程能力上部分追平GPT-4。时间差为3-8个月。</p>
-      </li>
-      <li>
-        <p>2024年5月OpenAI发布GPT-4o，Anthropic在2024年10月发布的claude-3.5-sonnet，以及Google在2024年12月发布的gemini-2.0-flash在各项性能表现上反超GPT-4o。时间差为5-7个月。</p>
-      </li>
-      <li>
-        <p>2024年12月OpenAI发布o1，Anthropic在2025年2月发布的claude-3.7-sonnet在语言理解和推理能力上接近01，在编程能力上超越o1。时间差为2个月。</p>
-      </li>
-      <li>
-        <p>2025年3月OpenAI发布o3，Google在2025年5月发布的gemini-2.5-pro全面超越o1，与o3性能齐平；Anthropi在2025年5月发布的claude-4-sonnet在代码能力上领先03。时间差为2个月。</p>
-      </li>
+      <li>2023年3月OpenAI发布GPT-4，Anthropic在2023年7月发布的claude-2在语言理解和推理能力上接近GPT-4；Google在2023年12月发布的gemini-1-ultra在语言理解和推理、编程能力上接近GPT-4；Anthropic在2024年2月发布的claude-3-opus在语言理解和推理能力、编程能力上超越GPT-4；Google在2024年2月发布的gemini-1.5-pro在语言理解和推理能力、编程能力上部分追平GPT-4。时间差为3-8个月。</li>
+      <li>2024年5月OpenAI发布GPT-4o，Anthropic在2024年10月发布的claude-3.5-sonnet，以及Google在2024年12月发布的gemini-2.0-flash在各项性能表现上反超GPT-4o。时间差为5-7个月。</li>
+      <li>2024年12月OpenAI发布o1，Anthropic在2025年2月发布的claude-3.7-sonnet在语言理解和推理能力上接近01，在编程能力上超越o1。时间差为2个月。</li>
+      <li>2025年3月OpenAI发布o3，Google在2025年5月发布的gemini-2.5-pro全面超越o1，与o3性能齐平；Anthropi在2025年5月发布的claude-4-sonnet在代码能力上领先03。时间差为2个月。</li>
     </ul>
   </li>
 </ul>
@@ -606,23 +588,15 @@ Take Away</p>
 <h4 id="1121-what-is-scaling-law">1.1.2.1 What is Scaling law?</h4>
 
 <ul>
-  <li>
-    <p>Scaling law是OpenAI在2020年发布的文章 “<a href="/reference/1_1_2/scaling_laws_for_neural_language_models.pdf">Scaling Laws for Neural Language Models</a>“中提出，文章通过实验研究了影响Transformer架构的语言模型表现的因素。</p>
-  </li>
-  <li>
-    <p>模型表现（Test Loss，T，具体是用cross-entropy loss这一指标衡量）与模型大小（Parameters, N）、数据集大小（Data Size, D）以及训练所需的计算量（Compute, C）之间存在幂律（Power-law）关系。当不受其他两个因素影响时，模型表现与三个要素 N、D、C 均呈幂律关系，如下图所示，趋势跨越六个数量级以上。模型表现与模型的架构参数（深度和宽度）关系不大。</p>
-
+  <li>Scaling law是OpenAI在2020年发布的文章 “<a href="/reference/1_1_2/scaling_laws_for_neural_language_models.pdf">Scaling Laws for Neural Language Models</a>“中提出，文章通过实验研究了影响Transformer架构的语言模型表现的因素。</li>
+  <li>模型表现（Test Loss，T，具体是用cross-entropy loss这一指标衡量）与模型大小（Parameters, N）、数据集大小（Data Size, D）以及训练所需的计算量（Compute, C）之间存在幂律（Power-law）关系。当不受其他两个因素影响时，模型表现与三个要素 N、D、C 均呈幂律关系，如下图所示，趋势跨越六个数量级以上。模型表现与模型的架构参数（深度和宽度）关系不大。
     <ul>
-      <li>计算量/算力消耗量一般用FLOP（FLoating-point OPeration）为单位衡量</li>
-      <li><img src="/image/1_1_2/scaling_law.png" alt="" /></li>
+      <li>计算量/算力消耗量一般用FLOP（FLoating-point OPeration）为单位衡量
+<img src="/image/1_1_2/scaling_law.png" alt="" /></li>
     </ul>
   </li>
-  <li>
-    <p>为了获得最佳模型性能，须同时扩展N, D, C三个要素。只要同时扩展 N 和 D，模型表现就能可预测地提升；但如果 N 或 D 保持不变，而另一个增加，就会进入收益递减状态。性能损失可预测地取决于比率 $N^{0.74}/D$，这意味着每当将模型大小增加 8 倍时，只需将数据量增加大约 5 倍即可避免损失。</p>
-  </li>
-  <li>
-    <p>训练曲线（x轴一般是训练迭代次数/训练消耗的算力，y轴为模型表现）遵循可预测的幂律，幂函数的参数大致与模型大小无关。通过推断训练曲线的早期部分，可以粗略地预测如果训练时间更长，模型表现会是多少。</p>
-  </li>
+  <li>为了获得最佳模型性能，须同时扩展N, D, C三个要素。只要同时扩展 N 和 D，模型表现就能可预测地提升；但如果 N 或 D 保持不变，而另一个增加，就会进入收益递减状态。性能损失可预测地取决于比率 $N^{0.74}/D$，这意味着每当将模型大小增加 8 倍时，只需将数据量增加大约 5 倍即可避免损失。</li>
+  <li>训练曲线（x轴一般是训练迭代次数/训练消耗的算力，y轴为模型表现）遵循可预测的幂律，幂函数的参数大致与模型大小无关。通过推断训练曲线的早期部分，可以粗略地预测如果训练时间更长，模型表现会是多少。</li>
   <li>
     <p>大型模型比小型模型具有更高的样本效率，能够以更少的优化步骤和更少的数据点达到相同的性能水平。</p>
 
@@ -640,21 +614,13 @@ Take Away</p>
 <h4 id="1122-why-now">1.1.2.2 Why Now?</h4>
 
 <ul>
-  <li>
-    <p>Scaling前置条件的成熟（1985-2017）</p>
-
+  <li>Scaling前置条件的成熟（1985-2017）
     <ul>
       <li>巨量的数据
         <ul>
-          <li>
-            <p>多层神经网络（深度学习）的架构在1980-1990年代就已经被提出了，并用于图像识别等任务。神经网络架构需要很多的数据来训练，但当时只有非常少的领域（如手写识别、字母识别、语音识别）有足够数量的优质数据，此外当时的计算机非常昂贵，对这一项技术的兴趣在1990年代中期就消退了。</p>
-          </li>
-          <li>
-            <p>大数据驱动的模型始于Fei-Fei Li于2009年在计算机视觉领域提出的ImageNet数据集，2012年基于该数据集训练的AlexNet标志着深度学习的一个里程碑式成就，人们开始意识到数据和深度神经网络架构的力量。</p>
-          </li>
-          <li>
-            <p>互联网的出现是让”巨量的数据”成为可能的必要前置条件。</p>
-          </li>
+          <li>多层神经网络（深度学习）的架构在1980-1990年代就已经被提出了，并用于图像识别等任务。神经网络架构需要很多的数据来训练，但当时只有非常少的领域（如手写识别、字母识别、语音识别）有足够数量的优质数据，此外当时的计算机非常昂贵，对这一项技术的兴趣在1990年代中期就消退了。</li>
+          <li>大数据驱动的模型始于Fei-Fei Li于2009年在计算机视觉领域提出的ImageNet数据集，2012年基于该数据集训练的AlexNet标志着深度学习的一个里程碑式成就，人们开始意识到数据和深度神经网络架构的力量。</li>
+          <li>互联网的出现是让”巨量的数据”成为可能的必要前置条件。</li>
         </ul>
       </li>
       <li>高效且便宜的算力
@@ -672,9 +638,7 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>Transformer开启的预训练时代（2017-2023）：从论文到产品</p>
-
+  <li>Transformer开启的预训练时代（2017-2023）：从论文到产品
     <ul>
       <li>需要回答的问题是：”Attention is All You Need”于2017年7月发布，震惊世界的ChatGPT产品于2022年11月发布，这其中经过了5年的时间，发生了什么？</li>
       <li>规模扩张
@@ -744,9 +708,7 @@ Take Away</p>
 <h4 id="1124-what-now">1.1.2.4 What Now?</h4>
 
 <ul>
-  <li>
-    <p>根据<a href="https://www.bilibili.com/video/BV1iBoSYJEU8/?share_source=copy_web&amp;vd_source=e339681838b10234d37810391dea4e4b&amp;t=1100">Geoffrey Hinton于2025年2月的讲座</a>，单纯的scaling带来的收益正在递减，当训练算力、训练数据翻倍时，模型性能的提升可能非常微小，需要新的技术和工程的创新来将模型性能进一步提升。现在使用的MoE架构就是通过工程上的创新来提升模型性能的方案。</p>
-
+  <li>根据<a href="https://www.bilibili.com/video/BV1iBoSYJEU8/?share_source=copy_web&amp;vd_source=e339681838b10234d37810391dea4e4b&amp;t=1100">Geoffrey Hinton于2025年2月的讲座</a>，单纯的scaling带来的收益正在递减，当训练算力、训练数据翻倍时，模型性能的提升可能非常微小，需要新的技术和工程的创新来将模型性能进一步提升。现在使用的MoE架构就是通过工程上的创新来提升模型性能的方案。
     <ul>
       <li>
         <p>一个可以参考的例子是Moore’s Law，即”集成电路（IC）上的晶体管数量大约每两年翻一番”。人们对于Moore’s Law是否已经终结有过诸多讨论，基于CPU的Moore’s Law可能确实在2010年左右就已经停滞了，但是基于并行计算的GPU的出现，集成电路的性能又按照Moore’s Law继续提升了10多年。</p>
@@ -755,9 +717,7 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>Scaling需要的更多的数据有可能会变成瓶颈，如果想要达到过去几年这样10倍、100倍的scaling，互联网上已经没有足够的数据了。探究新的数据获取方法是一个重要的课题。更多关于数据瓶颈内容请见<a href="#1.2.2 数据是模型发展的&quot;石油&quot;——如果&quot;石油&quot;被用完了怎么办？">章节1.2.2</a>。</p>
-  </li>
+  <li>Scaling需要的更多的数据有可能会变成瓶颈，如果想要达到过去几年这样10倍、100倍的scaling，互联网上已经没有足够的数据了。探究新的数据获取方法是一个重要的课题。更多关于数据瓶颈内容请见<a href="#1.2.2 数据是模型发展的&quot;石油&quot;——如果&quot;石油&quot;被用完了怎么办？">章节1.2.2</a>。</li>
   <li>
     <p>更多的模型参数参数、训练数据、训练算力消耗意味着更贵的模型训练成本，2024年前沿模型的训练费用也持续增长。没有足够强大且可持续的资本支撑的创业公司，在基础模型的竞争中已经逐步乏力并且被拉开差距。</p>
 
@@ -767,9 +727,7 @@ Take Away</p>
 
     <p><img src="/image/1_1_2/training_cost_scaling_3.png" style="zoom:33%;" /></p>
   </li>
-  <li>
-    <p>Scaling红利期的结束：<a href="https://36kr.com/p/3316013463266566">LLM六小龙</a></p>
-
+  <li>Scaling红利期的结束：<a href="https://36kr.com/p/3316013463266566">LLM六小龙</a>
     <ul>
       <li>
         <p>LLM六小龙的机会可能是因为当时国内的大模型发展还处在scaling的红利期，scaling方向明确，且处于scaling早期，scaling规模初创企业尚能处理，scaling回报比较丰厚。但随着红利期的结束，现在可能进入了收益递减期，scaling的回报下降，性能增长速度减缓，需要有持续资金支持、能够接受递减收益并依然耐心持续投入、有真正技术和工程创新能力的企业才能继续在市场上占据一席之地。一个直观但并不准确的趋势描述如下图所示。</p>
@@ -778,63 +736,43 @@ Take Away</p>
     <img src="/image/1_1_2/diminishing_return_to_scale.png" style="zoom: 40%;" />
 </div>
       </li>
-      <li>
-        <p>有行业知名大佬或顶尖人才带队，技术团队能力出众，首轮融资就突破为独角兽级别，以及要争夺国产OpenAI的位置，这些都是跻身”AI六小龙”的准入门槛。</p>
-      </li>
-      <li>
-        <p>零一万物（2023年5月创立）</p>
-
+      <li>有行业知名大佬或顶尖人才带队，技术团队能力出众，首轮融资就突破为独角兽级别，以及要争夺国产OpenAI的位置，这些都是跻身”AI六小龙”的准入门槛。</li>
+      <li>零一万物（2023年5月创立）
         <ul>
           <li>将超大模型交给了阿里训练，明确不再追逐AGI，放弃预训练转向应用。零一万物辛辛苦苦拉起的技术团队分崩离析。包括曹大鹏、戴宗宏等负责核心技术和产品方向的高管接连出走，最近一次是模型预训练负责人谷雪梅宣布离职。曾是零一万物核心成员的黄文灏加入了字节，而最近前零一万物联创谷雪梅被爆离职，正在筹备创业。</li>
           <li>根据《智能涌现》报道，2024年12月底，零一万物的预训练团队收到阿里”通义”的offer，Infra团队则收到了阿里云团队的offer。”阿里收编”的背后，源自零一万物的判断：初创公司投入超大模型预训练的性价比，太低了。</li>
           <li>作为六小龙中最早掉队的零一万物的创始人，李开复3月曾直接回应，中国市场最终可能只有三家能够真正站稳脚跟的大模型提供商，分别是DeepSeek、阿里巴巴和字节跳动。</li>
         </ul>
       </li>
-      <li>
-        <p>百川智能</p>
-
+      <li>百川智能
         <ul>
           <li>专注医疗垂类赛道，在字节、阿里、腾讯等大厂争相上新基础模型时，其创始人王小川曾提出百川智能的底层模型将对标OpenAI，但如今其基础大模型进入了静默期，不再更新。</li>
           <li>2025年3月，作为王小川在搜狗时期的老部下，在百川智能负责大语言模型技术开发的联创陈炜鹏宣布离职，同一时期离开的还有另一位联创焦可。</li>
         </ul>
       </li>
-      <li>
-        <p>智谱AI（2023年4月成立）</p>
-
+      <li>智谱AI（2023年4月成立）
         <ul>
           <li>基础大模型最后一次更新停止在2024年12月发布深度推理模型GLM-Zero-Preview。进入2025年，智谱的新动作只有发布了开源的GLM-4-32B-0414系列模型。智谱AI原视频模型负责人加入字节。</li>
         </ul>
       </li>
-      <li>
-        <p>月之暗面（2023年4月成立）</p>
-
+      <li>月之暗面（2023年4月成立）
         <ul>
           <li>2025年1月20号发布的Kimi1.5推理模型热度被 DeepSeek R1 压过，随后再无更新。月之暗面前大模型产品负责人独立创业。</li>
         </ul>
       </li>
-      <li>
-        <p>跃阶星辰（2023年4月成立）</p>
-
+      <li>跃阶星辰（2023年4月成立）
         <ul>
           <li>2025年1月一周内集中更新6款模型后，再无新迭代。</li>
         </ul>
       </li>
-      <li>
-        <p>MiniMax（2021年12月成立）</p>
-
+      <li>MiniMax（2021年12月成立）
         <ul>
           <li>2025年5月更新的MiniMax Speech - 02选择的也是文本转语音的场景，唯有继续推进基础模型。</li>
         </ul>
       </li>
-      <li>
-        <p>从2024年下半年开始，智谱之外，它们也几乎再无融资消息传出，随着字节、阿里、腾讯今年积极布局AI，拿出动辄百亿的资金扶持自家的AI APP，美团、小红书等也都在自建大模型团队，六小龙的先发优势已经被完全赶超。</p>
-      </li>
-      <li>
-        <p>在去年开源与闭源孰优孰略的争议中，杨植麟曾经在采访中表示”开源落后于闭源”，李彦宏也曾肯定地表示，闭源模型将持续保持对开源模型的优势，商业化闭源模型一定能在市场中胜出。彼时，六小龙们还可以凭借赶超开源模型一步的技术优势，输出自己的美好故事。但当免费开源且技术更为强大的DeepSeek出现后，开源成了新潮流，六小龙最后的堡垒也迎来炮击。</p>
-      </li>
-      <li>
-        <p>曾在AI 1.0时代被称为AI四小龙的商汤、旷视、云从、依图，殷鉴在前。2016年，AlphaGo横空出世带火了AI，那时技术领先的上述四家创业公司被并称为”AI四小龙”。其中商汤于2021年港股上市，云从在2022年成功科创板上市。但高研发投入之下，商业化却迎来惨淡局面。随着OpenAI出现，大模型成为AI主流，拿不到融资的四家公司，被迫开启大裁员。</p>
-      </li>
+      <li>从2024年下半年开始，智谱之外，它们也几乎再无融资消息传出，随着字节、阿里、腾讯今年积极布局AI，拿出动辄百亿的资金扶持自家的AI APP，美团、小红书等也都在自建大模型团队，六小龙的先发优势已经被完全赶超。</li>
+      <li>在去年开源与闭源孰优孰略的争议中，杨植麟曾经在采访中表示”开源落后于闭源”，李彦宏也曾肯定地表示，闭源模型将持续保持对开源模型的优势，商业化闭源模型一定能在市场中胜出。彼时，六小龙们还可以凭借赶超开源模型一步的技术优势，输出自己的美好故事。但当免费开源且技术更为强大的DeepSeek出现后，开源成了新潮流，六小龙最后的堡垒也迎来炮击。</li>
+      <li>曾在AI 1.0时代被称为AI四小龙的商汤、旷视、云从、依图，殷鉴在前。2016年，AlphaGo横空出世带火了AI，那时技术领先的上述四家创业公司被并称为”AI四小龙”。其中商汤于2021年港股上市，云从在2022年成功科创板上市。但高研发投入之下，商业化却迎来惨淡局面。随着OpenAI出现，大模型成为AI主流，拿不到融资的四家公司，被迫开启大裁员。</li>
     </ul>
   </li>
 </ul>
@@ -907,9 +845,7 @@ Take Away</p>
 <h4 id="1132-transformer出现之前循环神经网络-rnn">1.1.3.2 Transformer出现之前：循环神经网络 (RNN)</h4>
 
 <ul>
-  <li>
-    <p>Recurrent Neural Network (RNN) 的表示方法</p>
-
+  <li>Recurrent Neural Network (RNN) 的表示方法
     <ul>
       <li>
         <p>RNN在t=0时刻接受输入$x_0$后，会将信息传递给下一时刻的自己，即模型在t=1时刻接受输入$x_1$的同时，也会知道上一时刻的输入信息。比如下图中，只有一个RNN单元，右侧是按照时间顺序对同一个单元在不同时刻的状态进行了表示。</p>
@@ -918,39 +854,23 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p><a href="https://karpathy.github.io/2015/05/21/rnn-effectiveness/">RNN的工作方式</a></p>
-
+  <li><a href="https://karpathy.github.io/2015/05/21/rnn-effectiveness/">RNN的工作方式</a>
     <ul>
-      <li>
-        <p>Tokenization/Encoding/Embedding：把文字表示转化为数字表示</p>
-      </li>
-      <li>
-        <p>将数字表示输入由神经元（Neuron/Cell）组成的中间层（Hidden Layer），每个神经元都包含了诸多参数（Parameter），整个网络输出的是概率，这个概率是对下一个token的预测（Confidence）</p>
-      </li>
-      <li>
-        <p>RNN的特殊之处在于，前序神经元会将信息传递给后续神经元，并将之前输入的信息都于下一个输出Token的预测（例如，模型需要能够做出正确预测hel-&gt;l, hell-&gt;o）</p>
-      </li>
+      <li>Tokenization/Encoding/Embedding：把文字表示转化为数字表示</li>
+      <li>将数字表示输入由神经元（Neuron/Cell）组成的中间层（Hidden Layer），每个神经元都包含了诸多参数（Parameter），整个网络输出的是概率，这个概率是对下一个token的预测（Confidence）</li>
+      <li>RNN的特殊之处在于，前序神经元会将信息传递给后续神经元，并将之前输入的信息都于下一个输出Token的预测（例如，模型需要能够做出正确预测hel-&gt;l, hell-&gt;o）</li>
       <li>
         <p>RNN的学习方法：把预测的结果和真实的结果即正确答案进行比较，并通过调整hidden layer参数的方式，在多次的训练（Epoch/Iteration）后，实现能够能够正确预测下一个token的目标，调整参数的方法是梯度回传（Gradient Backpropagation）</p>
 
         <p><img src="/image/1_1_3/rnn_demo.png" style="zoom: 33%;" /></p>
       </li>
-      <li>
-        <p>想要提升模型的预测准确率，让网络变得更大是一个直观的方法，比如说让模型可以接受更长的输入，在预测时可以接触到更多的context。即需要更多neuron和更多参数，也就是模型层面的Scale Up。想要提升模型的泛化能力，就需要让模型见过更多的案例，即提供更多的训练数据供模型进行学习，就是数据层面的Scale Up。</p>
-      </li>
-      <li>
-        <p>数据对模型训练结果的影响：模型预测的本质是预测概率，训练数据集的组成就会影响到训练的结果，因此高质量且均衡的训练数据非常重要。比如说，在预测单词的下一个字母的任务里，训练数据有transformer, translate, transfer三个词，在没有更多的语境支持的情况下，trans+f有两个词，trans+l有一个词，那可能模型就会预测trans-&gt;f，因为这是更大概率正确的答案。</p>
-      </li>
+      <li>想要提升模型的预测准确率，让网络变得更大是一个直观的方法，比如说让模型可以接受更长的输入，在预测时可以接触到更多的context。即需要更多neuron和更多参数，也就是模型层面的Scale Up。想要提升模型的泛化能力，就需要让模型见过更多的案例，即提供更多的训练数据供模型进行学习，就是数据层面的Scale Up。</li>
+      <li>数据对模型训练结果的影响：模型预测的本质是预测概率，训练数据集的组成就会影响到训练的结果，因此高质量且均衡的训练数据非常重要。比如说，在预测单词的下一个字母的任务里，训练数据有transformer, translate, transfer三个词，在没有更多的语境支持的情况下，trans+f有两个词，trans+l有一个词，那可能模型就会预测trans-&gt;f，因为这是更大概率正确的答案。</li>
     </ul>
   </li>
-  <li>
-    <p><a href="https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf49b">RNN的Encoder-Decoder（编码器-解码器）架构</a></p>
-
+  <li><a href="https://medium.com/analytics-vidhya/encoder-decoder-seq2seq-models-clearly-explained-c34186fbf49b">RNN的Encoder-Decoder（编码器-解码器）架构</a>
     <ul>
-      <li>
-        <p>架构总览</p>
-
+      <li>架构总览
         <ul>
           <li>
             <p>Ilya Sutskever在2014年NeurIPS上发布论文”<a href="/reference/1_1_3/seq_to_seq_nn.pdf">Sequence to Sequence Learning with Neural Networks</a>“，提出了用于解决Sequence-to-Sequence任务的Encoder-Decoder模型（被称为Seq2Seq模型）。也是在这次会议上，Ilya提出了类似Scaling Law的观点，”如果有足够的数据和足够大的模型，成功是可以保证的”。</p>
@@ -962,24 +882,16 @@ Take Away</p>
 
             <p><img src="/image/1_1_3/seq2seq_by_time.png" style="zoom: 33%;" /></p>
           </li>
-          <li>
-            <p>自回归（Autoregressive）是一种使用其自身过去的输出作为输入来生成未来的输出的方法。Decoder部分通过使用自回归的方法，让模型输出长度可以与输入长度不一致（比如我们问GPT一个简短的问题，希望它能给出详细的大段回复，模型输入和输出的长度是不同的）。</p>
-          </li>
-          <li>
-            <p>Encoder-Decoder结构的高层设计理念在后续的Transformer模型、Figure AI的Helix模型中都有使用。</p>
-          </li>
+          <li>自回归（Autoregressive）是一种使用其自身过去的输出作为输入来生成未来的输出的方法。Decoder部分通过使用自回归的方法，让模型输出长度可以与输入长度不一致（比如我们问GPT一个简短的问题，希望它能给出详细的大段回复，模型输入和输出的长度是不同的）。</li>
+          <li>Encoder-Decoder结构的高层设计理念在后续的Transformer模型、Figure AI的Helix模型中都有使用。</li>
         </ul>
       </li>
-      <li>
-        <p>Encoder</p>
-
+      <li>Encoder
         <ul>
           <li>Seq2Seq模型的Encoder是一个多层循环神经网络（使用的是 LSTM架构），它每次读取一个单词的输入序列（例如一个英文句子）。它的作用是将输入序列的全部含义压缩成一个固定大小的向量，称为上下文向量（Context Vector），也被称为”思维向量”（Thought Vector），这个向量代是文字输入的数值表示。</li>
         </ul>
       </li>
-      <li>
-        <p>Context-Vector</p>
-
+      <li>Context-Vector
         <ul>
           <li>
             <p>Seq2Seq模型中使用的Context Vector和人形机器人公司Figure AI Helix模型的”大脑-小脑/快脑-慢脑”架构中用于链接大小脑的Latent Vector在抽象层面是类似的概念，都是输入信息的压缩表示。Context Vector和Latent Vector均采用复杂的高维输入（例如一个句子、一个视觉场景），并将其提炼为一个密集的数值向量以捕捉其基本含义，这种压缩的”理解”随后被用作生成输出序列的起点。当然，Helix的Latent Vector包含了更多模态的信息，包括视觉（来自摄像头）、音频（来自麦克风）、文本（来自用户命令）和本体感觉（机器人自身的关节位置和状态）等。</p>
@@ -988,16 +900,12 @@ Take Away</p>
           </li>
         </ul>
       </li>
-      <li>
-        <p>Decoder</p>
-
+      <li>Decoder
         <ul>
           <li>另一个多层 LSTM，使用来自encoder的context vector进行初始化。它的任务是基于初始上下文，逐个单词地生成输出序列（例如，将英文输入翻译成法语输出）。</li>
         </ul>
       </li>
-      <li>
-        <p>端到端模型</p>
-
+      <li>端到端模型
         <ul>
           <li>Seq2Seq 模型是端到端的，使用一个大型神经网络，直接将源文本翻译成目标文本。该模型只需在海量句对（原始语言-目标语言）数据集上进行训练，就能学习翻译所需的关系、语法和句法。这极大地简化了机器翻译模型的训练流程。</li>
           <li>判断模型是不是端到端的一个重要方法是看整个模型的梯度能不能回传（Gradient Backpropagation），目前基本上连接模型的不同模组的中间模块一定要是Vector形式才有可能实现梯度回传。</li>
@@ -1005,9 +913,7 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>RNN的局限</p>
-
+  <li>RNN的局限
     <ul>
       <li>RNN不擅长处理长距离依赖关系（文段特别长，相关上下文距离特别远的时候）
         <ul>
@@ -1036,16 +942,10 @@ Take Away</p>
 <h4 id="1133-注意力机制">1.1.3.3 注意力机制</h4>
 
 <ul>
-  <li>
-    <p>RNN中的注意力机制</p>
-
+  <li>RNN中的注意力机制
     <ul>
-      <li>
-        <p>注意力机制最早时于2014年由Yoshua Bengio等在论文”<a href="/reference/1_1_3/attention_rnn.pdf">Neural Machine Translation by Jointly Learning to Align and Translate</a>“中被提出，当时的目的是为了改进RNN的encoder-decoder架构中的context vector具有信息瓶颈的缺点。</p>
-      </li>
-      <li>
-        <p>论文中提出的新方法是：每当模型在翻译过程中生成一个单词时，它都会搜索输入句中最相关的信息的位置。然后，该模型根据与这些相关信息的context vector以及所有先前生成的单词来预测下一个需要生成的单词。</p>
-      </li>
+      <li>注意力机制最早时于2014年由Yoshua Bengio等在论文”<a href="/reference/1_1_3/attention_rnn.pdf">Neural Machine Translation by Jointly Learning to Align and Translate</a>“中被提出，当时的目的是为了改进RNN的encoder-decoder架构中的context vector具有信息瓶颈的缺点。</li>
+      <li>论文中提出的新方法是：每当模型在翻译过程中生成一个单词时，它都会搜索输入句中最相关的信息的位置。然后，该模型根据与这些相关信息的context vector以及所有先前生成的单词来预测下一个需要生成的单词。</li>
       <li>
         <p>这种新方法与基础的encoder-decoder架构最重要的区别在于，它不会尝试将整个输入句子编码成单个固定长度的向量（即Seq2Seq方法里的context vector）。相反，它将输入句子编码成一系列向量（将往encoder中输入每个单词后的hidden state存储起来），并在解码翻译时自适应地搜索和选择这些向量的子集。</p>
 
@@ -1063,21 +963,15 @@ Take Away</p>
 <h4 id="1134-transformer模型">1.1.3.4 Transformer模型</h4>
 
 <ul>
-  <li>
-    <p>Embedding and Positional Encoding</p>
-
+  <li>Embedding and Positional Encoding
     <ul>
       <li>与大多数 NLP 模型一样，Transformer 将输入标记（例如，单词或子词）转换为称为embedding的向量表示。</li>
       <li>Transformer 的一个关键创新是位置编码（Positional Encoding）。由于模型架构本身不包含递归（RNN的架构）或卷积（CNN的架构），因此它没有固有的机制来理解序列中 token 的顺序或位置。为了解决这个问题，在编码器和解码器的输入embeddin中添加了位置编码。这些编码提供了每个 token 的相对或绝对位置的信息。</li>
     </ul>
   </li>
-  <li>
-    <p>自注意力机制（Self-Attention）</p>
-
+  <li>自注意力机制（Self-Attention）
     <ul>
-      <li>
-        <p>Scaled Dot-Product Attention</p>
-
+      <li>Scaled Dot-Product Attention
         <ul>
           <li>
             <p>自注意力机制提供了将所有 token 位置直接关联起来的基本机制。自注意力机制使模型能够在处理每个单词时”权衡序列中不同单词的重要性”。对于给定的token，自注意力机制使其能够查看同一输入序列中的其他token，从而为其自身的表征收集上下文线索。</p>
@@ -1086,20 +980,11 @@ Take Away</p>
           </li>
           <li>
             <p>该机制涉及三个可学习的权重矩阵，用于将输入embedding（或前一层的输出）投影到Query (Q)、Key (K) 和Value (V) 向量中。这三个权重矩阵是随机初始化的，并在 Transformer 模型的训练过程中通过反向传播进行学习，就像神经网络中的其他权重一样。</p>
-
             <ul>
-              <li>
-                <p>Query (Q)：当前正在处理的单词的表示。</p>
-              </li>
-              <li>
-                <p>Key (K)：序列中所有单词的表示，用于和Query进行相关性评分，从而确定相关性高的内容。</p>
-              </li>
-              <li>
-                <p>Value (V)：序列中所有单词的另一种表示，包含输入内容的完整信息，参与生成输出。</p>
-              </li>
-              <li>
-                <p>Q, K, V 均来自同一来源：编码器（或解码器）中前一层的输出。</p>
-              </li>
+              <li>Query (Q)：当前正在处理的单词的表示。</li>
+              <li>Key (K)：序列中所有单词的表示，用于和Query进行相关性评分，从而确定相关性高的内容。</li>
+              <li>Value (V)：序列中所有单词的另一种表示，包含输入内容的完整信息，参与生成输出。</li>
+              <li>Q, K, V 均来自同一来源：编码器（或解码器）中前一层的输出。</li>
               <li>
                 <p>下图是一个示例，最左侧的是输入自注意力层的embedding，最右侧的是当前自注意力层的输出。</p>
 
@@ -1109,9 +994,7 @@ Take Away</p>
           </li>
         </ul>
       </li>
-      <li>
-        <p>多头注意力机制（Multi-Head Attention）</p>
-
+      <li>多头注意力机制（Multi-Head Attention）
         <ul>
           <li>多头注意力机制允许模型同时从不同的表征子空间中捕捉不同类型的关系，从而丰富了学习到的表征。这意味着不同的头可以学习关注不同类型的关系（例如，句法、语义、指代关系）或输入的不同方面，从而增强模型捕获复杂依赖关系的能力。</li>
         </ul>
@@ -1120,16 +1003,13 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>编码器（Encoder）-解码器（Decoder）结构</p>
-
+  <li>编码器（Encoder）-解码器（Decoder）结构
     <ul>
-      <li>解码器获取编码器的输出，并以自回归的方式，一次一个单词地生成输出序列</li>
-    </ul>
+      <li>
+        <p>解码器获取编码器的输出，并以自回归的方式，一次一个单词地生成输出序列</p>
 
-    <p><img src="/image/1_1_3/transformer.png" style="zoom:40%;" /></p>
-
-    <ul>
+        <p><img src="/image/1_1_3/transformer.png" style="zoom:40%;" /></p>
+      </li>
       <li>Masked Self- Attention
         <ul>
           <li>在解码器中引入”掩蔽”（Masked）自注意力机制是一项极具洞察力的改进。序列生成任务本质上是自回归的，这意味着对当前标记的预测取决于之前生成的标记。掩蔽机制巧妙地将注意力限制在目标序列中的先前位置，防止训练期间关注输出序列中的后续位置。</li>
@@ -1142,9 +1022,7 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>Transformer是如何解决RNN遇到的挑战的？</p>
-
+  <li>Transformer是如何解决RNN遇到的挑战的？
     <ul>
       <li>长距离依赖关系
         <ul>
@@ -1168,12 +1046,10 @@ Take Away</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>Transformer遇到的新挑战与解决方案</p>
-
+  <li>Transformer遇到的新挑战与解决方案
     <ul>
       <li>
-        <p>随着输出文段长度的不断延长，由于自回归特性，dense attention的计算量会逐渐加大</p>
+        <p>由于自回归特性，随着输出文段长度的不断延长，dense attention的计算量会逐渐加大</p>
 
         <p><img src="/image/1_1_3/dense_attention.png" style="zoom: 25%;" /></p>
       </li>
@@ -1184,16 +1060,13 @@ Take Away</p>
       </li>
       <li>
         <p>解决方案：Dense-attention v.s. Sparse-attention</p>
-
         <ul>
           <li>Global-attention v.s. Local-attention</li>
         </ul>
       </li>
     </ul>
   </li>
-  <li>
-    <p>Transformer的可解释性提升</p>
-
+  <li>Transformer的可解释性提升
     <ul>
       <li>虽然深度学习模型常常被批评为”黑匣子”，但Transformers 中的注意力机制提供了一定程度的可解释性。模型计算的注意力权重表明在生成特定输出或表示时，对输入序列不同部分的关注程度。这些权重可以可视化，从而深入了解模型的决策过程，并突出显示哪些标记对其他标记的表示或特定预测的贡献最大。</li>
       <li>例如，谷歌人工智能展示了如何通过可视化注意力模式来揭示模型解决共指的能力，即通过展示代词”it”在不同语境下关注的是哪个名词。这为理解模型行为、调试以及改进模型设计提供了一个宝贵的工具。</li>
@@ -1204,6 +1077,7 @@ Take Away</p>
 <blockquote>
   <p>[!TIP]
 Todo</p>
+
   <ul>
     <li>在图像生成领域的重要模型Diffusion Model，也可以应用于语言生成、具身智能的VLA模型、World Model架构中
       <ul>
@@ -1227,54 +1101,103 @@ Todo</p>
 <ul>
   <li>强化学习（Reinforcement Learning, RL）
     <ul>
-      <li>强化学习算法的启发源自于人类婴幼儿教育学，</li>
+      <li>强化学习于1980年代被提出，其算法的启发源自于人类婴幼儿的学习方式，即通过不断试错（Trial and Error）并根据反馈做出调整。心理学的研究中的Law of Effect表明，“产生令人满意的结果的行为往往会被重复，而产生不愉快结果的行为则不太可能被重复”，强化学习中关于奖励函数设计的底层逻辑正是基于此。
+        <ul>
+          <li>以宠物狗的训练为例子，我们不会给它一本教科书，教它“如何坐下”。我们只会说“坐下”，等它终于坐下后，再给它零食。零食就是奖励。这种积极的反馈会强化狗狗的动作，让它下次更有可能坐下。</li>
+        </ul>
+      </li>
+      <li>强化学习中几个重要的概念包括：行动主体（Agent）、环境（Environment）、状态（State）、行动（Action）、奖励（Reward）
+        <ul>
+          <li>打个比方，婴儿（Agent）看到一个色彩鲜艳的玩具（状态）。他们会伸手去抓它（行动）。玩具发出有趣的咔哒声（正向奖励）。这种正向反馈强化了婴儿的这个动作，使婴儿更有可能在将来再次抓取玩具。如果他们触碰到尖锐的东西（动作），他们会感到疼痛（负向奖励/惩罚），这会降低他们再次执行该动作的可能性。</li>
+        </ul>
+      </li>
+      <li>强化学习的流程
+        <ul>
+          <li>需要设计一个策略/动作执行人（AI Agent，代理人），并将其置于一个特定的“环境”中，并赋予其明确的目标。学习的过程是一个简单的循环：
+            <ul>
+              <li>Agent执行一个操作（Action）。（例如，交易算法卖出一只股票）。</li>
+              <li>环境（Environment）发生变化，并给予奖励（Reward）或惩罚。（例如，卖出产生了利润-&gt;奖励。卖出产生了亏损-&gt;惩罚）。</li>
+              <li>
+                <p>代理利用这些反馈来更新其策略（Policy），从而变得更加智能。</p>
+
+                <p><img src="/image/1_1_4/rl_cycle.png" style="zoom:20%;" /></p>
+              </li>
+            </ul>
+          </li>
+          <li>它重复这个循环数百万次，有时甚至数十亿次。它通过纯粹的反复试错来学习，并遵循一个目标：在长期内最大化总奖励。它的目标不仅仅是下一次奖励，而是在它的整个生命周期内尽可能多地获得奖励。</li>
+        </ul>
+      </li>
     </ul>
   </li>
-  <li>Tabular Q Learning</li>
-  <li>Deep Q Network (DQN)</li>
+  <li>Tabular Quality Learning
+    <ul>
+      <li>基于“策略表格”的强化学习方法，最终的目的是习得一套可以用表格表示的，可用于达成目标的策略（Policy）。</li>
+      <li>我们可以举一个Frozen Lake游戏的例子。
+        <ul>
+          <li>
+            <p>如下图所示，一个机器人在从起点S出发，要到终点G去，路上会经过一个结冰的湖面，F表示安全的冰面，H表示会掉入冰面的洞中。机器人总共有4种可以选择的行动（Action），即向上下左右四个方向移动一格，而整个环境共有16个状态（State），机器人处在每一个格子里的时候，都可以算做一种状态。此外我们还需要定义奖励函数，在这个游戏当中，到达终点G就可以获得奖励，调到洞里就会受到惩罚，在冰面上行走不会有奖励也不会有惩罚。</p>
+
+            <p><img src="/image/1_1_4/frozen_lake_game.png" style="zoom:20%;" /></p>
+          </li>
+          <li>
+            <p>所有可能的行动和可能的状态一起构成了Q Table，其中的信息可以告诉我们机器人在每一个格子里的时候，应该如何行动（类似一个导航地图）。机器人通过不断尝试（比如随机进行4个方向的移动），积累经验（调整Q Table中的数值），最终找到一条可以稳定到达终点的行进线路（Q Table中标红的路径）。</p>
+
+            <p><img src="/image/1_1_4/tabular_q_learning.png" style="zoom:50%;" /></p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Deep Quality Network (DQN)
+    <ul>
+      <li>当可能的状态和可能的行动特别多的时候，再使用表格的形式来表示策略可能非常低效（全部尝试一遍的效率太低了），此时我们可以引入Value Network神经网络来预测某个状态下采取各种可能行动的奖励数值，网络预测的奖励值被称为Q-value。模型会针对每一步可能的行动给出一个分数。高分表示“这一步走法让你有更大机会赢得比赛”，而低分则表示“这一步走法可能会导致糟糕的结果”。</li>
+      <li>DQN输入的是当前的环境状况，输出的是Q -value向量，Agent可以采取的每个可能动作都有一个对应的 Q -value。</li>
+    </ul>
+  </li>
+  <li>Actor-Critic Method
+    <ul>
+      <li>同时有Value Network和Policy Network两个网络。</li>
+    </ul>
+  </li>
+  <li>
+    <p>在大模型训练中使用的强化学习</p>
+
+    <ul>
+      <li>DeepSeek的发现</li>
+    </ul>
+  </li>
+  <li>Reward Hacking</li>
 </ul>
 
 <h4 id="1143-半监督学习训练范式">1.1.4.3 半监督学习训练范式</h4>
 
 <ul>
-  <li>
-    <p>监督学习与无监督学习</p>
-
+  <li>监督学习与无监督学习
     <ul>
       <li>监督学习（Supervised Learning）
         <ul>
-          <li>
-            <p>目标：基于带标签的训练数据，学习从输入到输出的映射函数。</p>
-          </li>
-          <li>
-            <p>数据：使用带标签的数据集，其中每个输入都与其对应的正确输出配对。</p>
-          </li>
-          <li>
-            <p>示例：垃圾邮件检测、情绪分析、天气预报。</p>
-          </li>
+          <li>目标：基于带标签的训练数据，学习从输入到输出的映射函数。像一个学生学习做题目，题目一般是有预先设定的明确的正确答案的。</li>
+          <li>数据：使用带标签的数据集，其中每个输入都与其对应的正确输出配对。</li>
+          <li>示例：垃圾邮件检测、情绪分析、天气预报。</li>
         </ul>
       </li>
       <li>无监督学习（Unsupervised Learning）
         <ul>
-          <li>目标：发现未标记数据中隐藏的模式、结构或关系。</li>
+          <li>目标：发现未标记数据中隐藏的模式、结构或关系。像侦探在不知道犯罪事实的情况下寻找线索一样，一般是没有预先就知道的“正确答案”的。</li>
           <li>数据：使用未标记的数据集，其中未提供正确的输出。</li>
           <li>示例：客户细分（Segmentation）、推荐引擎。</li>
         </ul>
       </li>
     </ul>
   </li>
-  <li>
-    <p>半监督学习（Semi-Supervised Learning）</p>
-
+  <li>半监督学习（Semi-Supervised Learning）
     <ul>
       <li>预训练期间对无标记数据集进行自监督学习（Self-Supervised Learning）</li>
       <li>微调期间进行监督学习（Supervised Fine-Tuning, SFT）</li>
       <li>对齐期间进行基于人类反馈的强化学习（Reinforcement Learning from Human Feedback, RLHF）</li>
     </ul>
   </li>
-  <li>
-    <p>预训练阶段：自监督学习（Self-Supervised Learning）</p>
-
+  <li>预训练阶段：自监督学习（Self-Supervised Learning）
     <ul>
       <li>这是基础阶段，LLM 会使用海量文本数据（例如书籍、网站、文章）进行训练。在自监督学习中，模型会根据输入数据生成自己的标签（例如，预测句子中的下一个单词，或填充被屏蔽的单词）。</li>
       <li>部分输入数据被策略性地隐藏或损坏，模型会接受训练以预测或重建缺失部分。输入数据本身会为这项预测任务提供”标签”（这部分称为”自监督”）。
@@ -1285,13 +1208,9 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>微调阶段：监督微调（Supervised Fine-Tuning, SFT）</p>
-
+  <li>微调阶段：监督微调（Supervised Fine-Tuning, SFT）
     <ul>
-      <li>
-        <p>迁移学习（Transfer Learning）</p>
-
+      <li>迁移学习（Transfer Learning）
         <ul>
           <li>
             <p>预训练后，LLM 通常会在较小的、针对特定任务且已标记的数据集上进行微调，充分利用预训练权重从未带标签的数据中捕获的大量语义信息。例如，一个包含prompt-response示例的数据集。这有助于模型将其功能与特定任务或期望行为相匹配。</p>
@@ -1300,9 +1219,7 @@ Todo</p>
           </li>
         </ul>
       </li>
-      <li>
-        <p>Low-Rank Adaptation (LoRA)</p>
-
+      <li>Low-Rank Adaptation (LoRA)
         <ul>
           <li>于2021年6月在论文”<a href="/reference/1_1_4/lora.pdf">LoRA: Low-Rank Adaptation of Large Language Models</a>“中被提出</li>
           <li>LoRA 是一种参数高效微调 (parameter-efficient fine-tuning, PEFT) 技术。它是一种高效的方法，可以将大规模预训练模型应用于新的特定任务，而无需承担重新训练整个模型的高昂成本。
@@ -1321,16 +1238,10 @@ Todo</p>
           </li>
         </ul>
       </li>
-      <li>
-        <p>Retrieval-Augmented Generation (RAG)</p>
-
+      <li>Retrieval-Augmented Generation (RAG)
         <ul>
-          <li>
-            <p>于2020年5月在论文”<a href="/reference/1_1_4/rag.pdf">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a>“中被提出</p>
-          </li>
-          <li>
-            <p>通过在大型语言模型生成答案之前，将其连接到外部、最新或专有知识源来增强大型语言模型的回答质量。目前各类能够访问互联网数据的LLM（如Google Gemini，OpenAI GPT），也是运用了RAG技术。</p>
-          </li>
+          <li>于2020年5月在论文”<a href="/reference/1_1_4/rag.pdf">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a>“中被提出</li>
+          <li>通过在大型语言模型生成答案之前，将其连接到外部、最新或专有知识源来增强大型语言模型的回答质量。目前各类能够访问互联网数据的LLM（如Google Gemini，OpenAI GPT），也是运用了RAG技术。</li>
           <li>RAG的应用原理
             <ul>
               <li>检索步骤：当用户提出一个问题（Prompt）时，RAG 系统不会立即将其发送给语言模型。相反，它会首先将用户的提示作为搜索查询，从特定的知识库中查找相关信息。该知识库可以是公司文档、技术手册、最新新闻文章、网站内容或任何其他文本集合。此搜索通常使用”语义搜索”（Semantic Search）完成，它基于含义和上下文（而不仅仅是关键字）来查找文档。Google Gemini会适用Google Search来搜寻相关的网页信息，OpenAI会使用微软的Bing Search来搜索网页。</li>
@@ -1350,9 +1261,7 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>对齐阶段：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback, RLHF）</p>
-
+  <li>对齐阶段：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback, RLHF）
     <ul>
       <li>于2022年3月由OpenAI在”<a href="/reference/1_1_4/rlhf.pdf">Training language models to follow instructions with human feedback</a>“中提出</li>
       <li>完成微调后，通常会进行进一步的训练（对齐），以使模型的输出与人类对有用性、诚实性和无害性的偏好保持一致。这涉及人工评审员对模型输出进行评分，然后将其输入到强化学习中使用的奖励模型中。</li>
@@ -1406,9 +1315,7 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>半监督学习的影响</p>
-
+  <li>半监督学习的影响
     <ul>
       <li>降低标注成本：针对特定 LLM 任务（例如高质量教学跟踪或专业知识）进行人工标注数据成本高昂且耗时。半监督学习旨在从规模较小的标注数据集中获取更多信息。</li>
       <li>提升泛化能力：通过学习分布更广的未标注数据，模型通常能够更好地泛化到未见过的样本。</li>
@@ -1420,26 +1327,19 @@ Todo</p>
 <h4 id="1144-底座模型与垂直领域应用">1.1.4.4 底座模型与垂直领域应用</h4>
 
 <ul>
-  <li>
-    <p>底座模型Foundation Model与Transfer Learning</p>
-
+  <li>底座模型Foundation Model与Transfer Learning
     <ul>
-      <li>
-        <p>由Feifei Li在”<a href="/reference/1_1_4/foundation_model.pdf">On the Opportunities and Risks of Foundation Models</a>“中提出</p>
-      </li>
+      <li>由Feifei Li在”<a href="/reference/1_1_4/foundation_model.pdf">On the Opportunities and Risks of Foundation Models</a>“中提出</li>
       <li>
         <p>底座模型可以再经过微调（如LoRA、RAG等方法）被应用于各个垂直领域，能够具备垂直领域的特定知识和技能。</p>
 
-        <p><img src="/image/1_1_4/foundation_model.png" style="zoom:30%;" /></p>
+        <p><img src="/image/1_1_4/foundation_model.png" style="zoom:20%;" /></p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>知识蒸馏（Knowledge Distillation）</p>
+  <li>知识蒸馏（Knowledge Distillation）
     <ul>
-      <li>
-        <p><a href="/reference/1_1_4/knowledge_distillation.pdf">知识蒸馏技术</a>于2015年3月由Geoffrey Hinton等人提出。</p>
-      </li>
+      <li><a href="/reference/1_1_4/knowledge_distillation.pdf">知识蒸馏技术</a>于2015年3月由Geoffrey Hinton等人提出。</li>
       <li>
         <p>知识蒸馏是机器学习中的一种模型压缩技术，通过训练一个紧凑的”学生”模型来复制更大、更复杂的”老师”模型的性能。更小、更高效的”学生”模型，适合部署在计算资源有限的设备上，如移动设备、边缘计算设备。</p>
 
@@ -1501,9 +1401,7 @@ Todo</p>
     <ul>
       <li>“推理模型”通常是指大语言模型 (LLM)，经过专门设计、训练和微调，能够出色地完成需要复杂认知过程的任务（数学推理、写代码）的模型。</li>
       <li>它并非从头开始构建一个全新、独特的”推理架构”，而是在已经非常强大的基础架构上应用复杂的增强功能和训练方法，以提升推理能力。</li>
-      <li>
-        <p>推理模型的特征</p>
-
+      <li>推理模型的特征
         <ul>
           <li>通常采用 MoE 结构</li>
           <li>使用精心挑选的训练数据，涵盖复杂的推理任务</li>
@@ -1627,12 +1525,8 @@ Todo</p>
 <ul>
   <li>什么是开源？
     <ul>
-      <li>
-        <p>在软件社区中，”开源”是指根据许可证发布的软件，该许可证授予用户自由使用、研究、修改和分发软件及其源代码的权利。开放权重模型虽然比封闭权重模型对开发者更友好，<strong>但不一定是完全开源的，因为底层代码或训练数据通常不公开</strong>。</p>
-      </li>
-      <li>
-        <p>开源的方法根据其开放程度从低到高排列，可以分为公开训练好之后的模型权重(Weights)、公开训练数据集、公开训练代码</p>
-      </li>
+      <li>在软件社区中，”开源”是指根据许可证发布的软件，该许可证授予用户自由使用、研究、修改和分发软件及其源代码的权利。开放权重模型虽然比封闭权重模型对开发者更友好，<strong>但不一定是完全开源的，因为底层代码或训练数据通常不公开</strong>。</li>
+      <li>开源的方法根据其开放程度从低到高排列，可以分为公开训练好之后的模型权重(Weights)、公开训练数据集、公开训练代码</li>
       <li>
         <p>DeepSeek vs Qwen vs Llama同是开源，有什么区别？</p>
 
@@ -1675,18 +1569,14 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>在2022-2023年，闭源模型GPT3.5/GPT-4性能比开源模型领先很多，而此后闭源模型的领先优势在持续收窄，2025年1月DeepSeek-R1的出现向世人印证了这一点。更多关于闭源与开源模型的性能差异变化的内容请见<a href="#1.1.1 大语言模型技术里程碑及其影响">章节1.1.1</a>。</p>
-  </li>
+  <li>在2022-2023年，闭源模型GPT3.5/GPT-4性能比开源模型领先很多，而此后闭源模型的领先优势在持续收窄，2025年1月DeepSeek-R1的出现向世人印证了这一点。更多关于闭源与开源模型的性能差异变化的内容请见<a href="#1.1.1 大语言模型技术里程碑及其影响">章节1.1.1</a>。</li>
   <li>开源模型的优势在于其被学界、社会各界的广泛微调、使用、持续改进。开源模型有可能能够帮助AI应用公司降低模型使用成本，模型可以被免费部署于AI应用公司自己的服务器上，仅需承担服务器的运营维护费用。但开源及闭源模型的成本在不断下降，自行部署模型的价格优势还能保持多久仍是未知的，最终两者的价格可能会收敛到一个”市场均衡”价格。如果是为了简化团队规模，直接使用模型公司提供的API可能是更加经济的选择。更多关于AI推理成本下降造成的影响的内容请见<a href="#2.2.1 AI推理能力是新时代的电力吗？">章节2.2.1</a>。</li>
 </ul>
 
 <h3 id="122-数据是模型发展的石油如果石油被用完了怎么办">1.2.2 数据是模型发展的”石油”——如果”石油”被用完了怎么办？</h3>
 
 <ul>
-  <li>
-    <p>此部分内容的参考主要来自<a href="/reference/hai_ai_index_report_2025.pdf">AI Index Report 2025</a></p>
-  </li>
+  <li>此部分内容的参考主要来自<a href="/reference/hai_ai_index_report_2025.pdf">AI Index Report 2025</a></li>
   <li>
     <p>曾经主流观点是限制Scaling Up的主要因素是算力，即GPU的性能和供给。但实际上如今GPU性能仍大致遵循着Moore’s Law保持着稳定且持续增长的态势，2024年初公布的Nvidia Blackwhell将在上一代产品Nvidia Hopper的基础上再将模型训练性能提升4倍，Nvidia GPU产能也在逐步提升。但由于训练数据的规模巨大，其产生速度已经逐渐难以跟上消耗的速度了，并逐渐可能成为新的Scale Up瓶颈。</p>
 
@@ -1790,13 +1680,9 @@ Todo</p>
 <h4 id="1311-如何搭建一个agent">1.3.1.1 如何搭建一个Agent</h4>
 
 <ul>
-  <li>
-    <p>AI Agent是一种能够感知环境、做出决策并采取自主行动以实现特定目标的系统</p>
-
+  <li>AI Agent是一种能够感知环境、做出决策并采取自主行动以实现特定目标的系统
     <ul>
-      <li>
-        <p>AI Agent是一种更智能，需要更少人类介入的AI应用。</p>
-      </li>
+      <li>AI Agent是一种更智能，需要更少人类介入的AI应用。</li>
       <li>
         <p>在我看来，能调用一种/一类工具完成某一个垂直领域任务的AI系统我们可能更习惯于称呼其为AI应用（比如AI教育应用、AI营销应用，但实际上也可以称其为Agent）。能够接受更抽象（高层次）的指令/任务，调用更丰富的工具，解决更广泛且复杂的问题，并能减少人类在系统执行任务时的参与/介入的系统可能是今天比较火热的Agent概念所指代的。下图来自该<a href="https://www.bilibili.com/video/BV15YJTzkENC/?spm_id_from=333.1391.0.0&amp;vd_source=8b0a24f131c5979af386ce548b05ef0f">视频</a>。</p>
 
@@ -1833,12 +1719,8 @@ Todo</p>
         <p><a href="https://modelcontextprotocol.io/introduction">Model Context Protocol (MCP)</a></p>
 
         <ul>
-          <li>
-            <p>Anthropic在2024年11月在<a href="https://www.anthropic.com/news/model-context-protocol">博客</a>中提出了MCP。Function Calling是作用于模型和应用服务器之间（如ChatGPT的服务器）的，而MCP是作用于应用服务器和第三方工具之间的一种交互标准。</p>
-          </li>
-          <li>
-            <p>MCP 是一个开放协议，它规范了应用程序向 LLM 提供上下文的方式。MCP 就像 AI 应用程序的 USB-C 端口一样。正如 USB-C 提供了一种标准化的方式将电脑连接到各种外围设备和配件一样，MCP 也提供了一种标准化的方式将 AI 模型连接到不同的数据源和工具。</p>
-
+          <li>Anthropic在2024年11月在<a href="https://www.anthropic.com/news/model-context-protocol">博客</a>中提出了MCP。Function Calling是作用于模型和应用服务器之间（如ChatGPT的服务器）的，而MCP是作用于应用服务器和第三方工具之间的一种交互标准。</li>
+          <li>MCP 是一个开放协议，它规范了应用程序向 LLM 提供上下文的方式。MCP 就像 AI 应用程序的 USB-C 端口一样。正如 USB-C 提供了一种标准化的方式将电脑连接到各种外围设备和配件一样，MCP 也提供了一种标准化的方式将 AI 模型连接到不同的数据源和工具。
             <ul>
               <li>MCP 主机（Host）：需要通过 MCP 访问数据的程序，例如 Claude Desktop、IDE 或 AI应用</li>
               <li>MCP 客户端（Client）：与服务器保持一对一连接的协议客户端</li>
@@ -1853,9 +1735,7 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>Agent路线2：能够像人类一样使用电脑的AI模型</p>
-
+  <li>Agent路线2：能够像人类一样使用电脑的AI模型
     <ul>
       <li>Anthropic Computer Use
         <ul>
@@ -1925,11 +1805,12 @@ Todo</p>
 <blockquote>
   <p>[!TIP]
 Todo</p>
+
   <ul>
     <li>Agent公司都解决了什么问题，为什么可以用AI做一遍自动化的工具？
       <ul>
         <li>Monica vs Manus</li>
-        <li>Cursor</li>
+        <li>Cursor - Vibe Coding</li>
         <li>Devin</li>
         <li>Claude Code</li>
         <li>LangChain</li>
@@ -1954,12 +1835,8 @@ Todo</p>
 <ul>
   <li>大模型之前传统的大脑和小脑架构
     <ul>
-      <li>
-        <p>运动规划</p>
-      </li>
-      <li>
-        <p>运动控制</p>
-      </li>
+      <li>运动规划</li>
+      <li>运动控制</li>
     </ul>
   </li>
 </ul>
@@ -1967,27 +1844,43 @@ Todo</p>
 <h4 id="1322-vision-language-model">1.3.2.2 Vision Language Model</h4>
 
 <ul>
-  <li>
-    <p>具身智能是一种可以和物理环境进行互动的AI Agent</p>
-  </li>
-  <li>
-    <p>Vision-Language-Action(VLA) Model</p>
-
+  <li>具身智能是一种可以和物理环境进行互动的AI Agent
     <ul>
-      <li>
-        <p>Figure AI Helix</p>
+      <li>物理图灵测试（Physical Turing Task）
+        <ul>
+          <li>机器人在与物理世界的交互中做出了和人类一样的结果。比如将一个混乱的房屋整理的井井有条，而我们无法分辨这个效果是人类所做还是机器人所做。</li>
+        </ul>
+      </li>
+      <li>Physical API
+        <ul>
+          <li>
+            <p>未来具身智能也会像目前的AI一样，人们可以通过API来调用他们，作为各类具身智能应用的底层模型。</p>
 
+            <p><img src="/image/1_3_2/physical_api.png" style="zoom: 50%;" /></p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Vision-Language-Action(VLA) Model
+    <ul>
+      <li>Figure AI Helix
         <ul>
           <li>
             <p>大脑（慢系统）+小脑（快系统）：Helix的大脑被称为System 2，小脑被称为System 1。其中大脑是参数更多的大模型，因而推理速度较慢，输出的频率为7-9Hz，而小脑的参数更少，推理速度更快，输出频率为200Hz。</p>
 
             <p><img src="/image/1_3_2/figure_ai_helix.png" alt="" /></p>
           </li>
+          <li>潜在向量（Latent Vector）：连接大脑和小脑的数据结构是潜在向量，信息通过潜在向量从大脑想小脑传输，潜在向量是人类不可直接理解的数字（向量）表示形式。梯度可以通过潜在向量从 S1 反向传播到 S2，整个大脑+小脑的系统是端到端的</li>
+          <li>能够识别、抓取、放置从未在训练中见过的物品，展现出对各种形状、尺寸和材质的物品稳健的泛化能力</li>
+        </ul>
+      </li>
+      <li>Nvidia GROOT N1
+        <ul>
           <li>
-            <p>潜在向量（Latent Vector）：连接大脑和小脑的数据结构是潜在向量，信息通过潜在向量从大脑想小脑传输，潜在向量是人类不可直接理解的数字（向量）表示形式。梯度可以通过潜在向量从 S1 反向传播到 S2，整个大脑+小脑的系统是端到端的</p>
-          </li>
-          <li>
-            <p>能够识别、抓取、放置从未在训练中见过的物品，展现出对各种形状、尺寸和材质的物品稳健的泛化能力</p>
+            <p>输入视频和语言指令，输出电机关节指令。可以实现多机器人协作。</p>
+
+            <p><img src="/image/1_3_2/groot_n1.png" style="zoom: 15%;" /></p>
           </li>
         </ul>
       </li>
@@ -1996,17 +1889,13 @@ Todo</p>
   <li>
     <p>模仿学习（Imitation Learning）</p>
   </li>
-  <li>
-    <p>遥操作</p>
-  </li>
+  <li>遥操作</li>
 </ul>
 
 <h4 id="1323-具身智能训练数据获取">1.3.2.3 具身智能训练数据获取</h4>
 
 <ul>
-  <li>
-    <p>具身智能的训练数据获取</p>
-
+  <li>具身智能的训练数据获取
     <ul>
       <li>Figure AI
         <ul>
@@ -2015,25 +1904,74 @@ Todo</p>
       </li>
       <li>英伟达的具身智能发展路线：Simulation 1.0 - Simulation 2.0
         <ul>
-          <li>基于Nvidia机器人业务负责人Jim Fan于2025年5月在红杉资本AI Ascent 2025上的<a href="(https://www.youtube.com/watch?v=_2NijXqBESI)">分享</a></li>
-          <li>Digital Twin</li>
-          <li>Generative World</li>
+          <li>
+            <p>基于<a href="https://youtu.be/_2NijXqBESI?si=XXUc6gjIIXG66xSs">Nvidia机器人业务负责人Jim Fan于2025年5月在红杉资本AI Ascent 2025上的分享</a></p>
+
+            <p><img src="/image/1_3_2/multi_ver_simulation.png" style="zoom: 50%;" /></p>
+          </li>
+          <li>真实机器人数据
+            <ul>
+              <li>
+                <p>由人类遥控现实世界中的机器人进行操作（Teleoperation）完成任务，并收集机器人的关节位置随时间变化的数据（关节控制信号）。</p>
+
+                <p><img src="/image/1_3_2/real_robot_data.png" alt="" /></p>
+              </li>
+              <li>市面上没有现成的数据，需要由操作员使用头戴式VR设备，由VR设备识别操作员的手部姿势并将信号传递给机器人。</li>
+              <li>这类数据的收集非常昂贵，且效率非常有限（最高效率是24小时/机器人/天），依赖于操作员的“人力供给”。</li>
+            </ul>
+          </li>
+          <li>Simulation 1.0：基于传统物理引擎（Classical Physics Engine）的数字孪生（Digital Twin）仿真
+            <ul>
+              <li>需要人工构建一个机器人的数字孪生（即对真实世界的机器人、灵巧手等的数字复刻）和虚拟环境。算法在仿真环境中训练，并在现实世界中测试训练效果。这一方法在Nvidia的论文”<a href="/reference/1_3_2/eureka.pdf">Eureka: Human-Level Reward Design via Coding Large Language Models</a>“中使用。</li>
+              <li>“用比现实世界时间快一万倍的速度进行仿真”，即在一万个不同的环境中（这些环境有不同的环境变量如重力、摩擦力、物品质量等，称为Domain Randomization）使用GPU并行的训练。可以将训练速度提高至一万到一百万帧每秒。</li>
+              <li>仿真能生效的底层原则：如果机器人能在一百万个世界中解决某个问题，那么它大概率也能在第一百万零一个世界（即现实世界）里解决这个问题。</li>
+            </ul>
+          </li>
+          <li>
+            <p>Simulation 1.5：基于生成式物理引擎（Generative Physics Engine）的数字表亲（Digital Cousin）仿真</p>
+
+            <ul>
+              <li>
+                <p>用3D生成模型模型生成数字世界里的物体的3D建模，用Diffusion模型生成物品纹理。由人类佩戴VR设备进行遥操作（Teleoperation）控制在仿真世界中的机器人，收集遥操作中机器人关节的运行轨迹数据。此外可以在仿真环境中添加光照效果，调整运行轨迹数据创造新的动作（比如将杯子从A移到B的动作数据经过调整后就可以变成将杯子从C移到D的动作数据）。论文”<a href="https://robocasa.ai/">RoBoCASA</a>“使用了该方法。</p>
+              </li>
+              <li>
+                <p>这个方法可以将1个人类遥操作收集的动作demo，置入N个环境中，并且根据这1个demo生成M个动作。最终将1个demo扩展为$1 \times N \times M$个训练数据。</p>
+
+                <p><img src="/image/1_3_2/digital_cousin.png" style="zoom: 67%;" /></p>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <p>Simulation 2.0：基于神经物理模型（Neural Physics Engine）的数字游民（Digital Nomad）仿真</p>
+
+            <ul>
+              <li>
+                <p>将开源的通用目的的Diffusion视频生成模型在机器人领域的数据上进行微调，此后就可以输入文字生成未来机器人动作的视频。生成的视频可以正确的展现物体的反光效果、机器人和物体的互动结果（碰撞的物理效果等）。</p>
+              </li>
+              <li>
+                <p>可以非常简单低成本的生成无数个“平行宇宙”，其场景和动作的多元性非常高。</p>
+
+                <p><img src="/image/1_3_2/embodied_scaling_law.png" style="zoom: 25%;" /></p>
+              </li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
   </li>
-  <li>
-    <p>具身智能的商业机会</p>
-
-    <ul>
-      <li>
-        <p>中国拥有全世界最多的工业机器人安装量，因此也有最大的具身智能落地需求和应用场景。</p>
-
-        <p><img src="/image/1_3_2/industrial_robot_install_1.png" style="zoom: 33%;" /><img src="/image/1_3_2/industrial_robot_install_2.png" style="zoom:33%;" /></p>
-      </li>
-    </ul>
-  </li>
 </ul>
+
+<blockquote>
+  <p>[!TIP]</p>
+
+  <p>Todo</p>
+
+  <ul>
+    <li>论文：<a href="https://agile.human2humanoid.com/">ASAP Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills</a></li>
+    <li>Isaac Lab in Omniverse Digital Twin：在仿真环境中训练人形机器人走路。</li>
+    <li>GROOT Mimic</li>
+  </ul>
+</blockquote>
 
 <h3 id="133-数据合成">1.3.3 数据合成</h3>
 
@@ -2067,22 +2005,14 @@ Todo</p>
   </li>
   <li>Self-Instruct
     <ul>
-      <li>
-        <p>Self-Instruct方法于2022年12月在论文”<a href="/reference/1_3_3/self_instruct.pdf">Self-Instruct: Aligning Language Models with Self-Generated Instructions</a>“中被提出。Self-instruct遵循了知识蒸馏的核心理念，可用于增强预训练大型语言模型 (LLM) 遵循人类指令的能力。</p>
-      </li>
-      <li>
-        <p>其核心理念是使用一个大型且强大的”教师”模型来<strong>生成训练数据</strong>（比如GPT-4，Claude-3等），一个包含指令及其对应高质量答案的海量数据集，然后用于微调一个规模较小的”学生”模型。</p>
-      </li>
+      <li>Self-Instruct方法于2022年12月在论文”<a href="/reference/1_3_3/self_instruct.pdf">Self-Instruct: Aligning Language Models with Self-Generated Instructions</a>“中被提出。Self-instruct遵循了知识蒸馏的核心理念，可用于增强预训练大型语言模型 (LLM) 遵循人类指令的能力。</li>
+      <li>其核心理念是使用一个大型且强大的”教师”模型来<strong>生成训练数据</strong>（比如GPT-4，Claude-3等），一个包含指令及其对应高质量答案的海量数据集，然后用于微调一个规模较小的”学生”模型。</li>
     </ul>
   </li>
   <li>数据增强（Data Augmentation）
     <ul>
-      <li>
-        <p>数据增强放在生成式模型成为主流之前就已经被提出。它通过<strong>修改真实数据</strong>（例如倾斜或图像混合）来创建新的数据变体，同时保留基本特征。数据增强的方法在<a href="/reference/1_3_3/survey_on_image_data_augmentation.pdf">图像数据</a>和<a href="/reference/1_3_3/mixing_augmentation_methods.pdf">其他领域</a>均有应用。例如，使用旋转或亮度调整的图像训练的图像识别模型将更好地识别不同光照条件或不同角度下的物体。</p>
-      </li>
-      <li>
-        <p>图像领域常见的数据增强方法包括</p>
-
+      <li>数据增强放在生成式模型成为主流之前就已经被提出。它通过<strong>修改真实数据</strong>（例如倾斜或图像混合）来创建新的数据变体，同时保留基本特征。数据增强的方法在<a href="/reference/1_3_3/survey_on_image_data_augmentation.pdf">图像数据</a>和<a href="/reference/1_3_3/mixing_augmentation_methods.pdf">其他领域</a>均有应用。例如，使用旋转或亮度调整的图像训练的图像识别模型将更好地识别不同光照条件或不同角度下的物体。</li>
+      <li>图像领域常见的数据增强方法包括
         <ul>
           <li>几何变换：
             <ul>
@@ -2107,9 +2037,7 @@ Todo</p>
           <li>图像混合：诸如 Mixup（在两幅图像及其标签之间进行插值）或 CutMix（将一幅图像上的块粘贴到另一幅图像上）之类的技术。</li>
         </ul>
       </li>
-      <li>
-        <p>自然语言处理领域的数据增强方法包括</p>
-
+      <li>自然语言处理领域的数据增强方法包括
         <ul>
           <li>同义词替换：用同义词替换单词。</li>
           <li>随机插入：在句子中随机插入单词（通常是近义词或填充词）。</li>
@@ -2122,9 +2050,7 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>在数据合成领域做出尝试的企业</p>
-
+  <li>在数据合成领域做出尝试的企业
     <ul>
       <li>
         <p>Scale AI</p>
@@ -2192,12 +2118,8 @@ Todo</p>
       <li>根据<a href="https://www.bbc.com/news/articles/cpqeng9d20go">报道</a>，在Claude 4 被极限施压，只有勒索工程师和接受被关闭两个选项的时候，Claude 4 会选择试图勒索工程师来避免被关闭。</li>
       <li>Anthropic
         <ul>
-          <li>
-            <p>Anthropic一直强调其目标是发展安全的AI系统。</p>
-          </li>
-          <li>
-            <p>在2024年10月<a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">更新了负责任的扩张政策</a>（Responsible Scaling Policy），并且提出了AI安全分级标准AI Safety Level Standards，用于评估AI的安全等级。</p>
-          </li>
+          <li>Anthropic一直强调其目标是发展安全的AI系统。</li>
+          <li>在2024年10月<a href="https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy">更新了负责任的扩张政策</a>（Responsible Scaling Policy），并且提出了AI安全分级标准AI Safety Level Standards，用于评估AI的安全等级。</li>
         </ul>
       </li>
       <li>Yoshua Bengio
@@ -2206,12 +2128,10 @@ Todo</p>
           <li>2025年5月，成立非盈利机构LawZero，目标是构建像科学家一样，只是尝试理解世界，但没有行动（Agent）能力的模型，这种科学家模型可以作为Agent的安全护栏，其能够识别Agent的哪些行为可能是对人类有害的，并进行阻止。</li>
         </ul>
       </li>
-      <li>
-        <p>Ilya Sutskever成立Safe Superintelligence Inc.</p>
-      </li>
+      <li>Ilya Sutskever成立Safe Superintelligence Inc.</li>
       <li>Geoffrey Hinton
         <ul>
-          <li>根据<a href="https://www.bilibili.com/video/BV1iBoSYJEU8/?share_source=copy_web&amp;vd_source=e339681838b10234d37810391dea4e4b&amp;t=1100">Geoffrey Hinton于2025年2月的讲座</a>消息</li>
+          <li>根据<a href="https://www.bilibili.com/video/BV1iBoSYJEU8/?share_source=copy_web&amp;vd_source=e339681838b10234d37810391dea4e4b&amp;t=1100">Geoffrey Hinton于2025年2月的讲座</a>和<a href="https://www.bilibili.com/video/BV1YdMizFEVq/?share_source=copy_web&amp;vd_source=e339681838b10234d37810391dea4e4b">Geoffrey Hinton于2025年6月的播客</a></li>
           <li>对于”Meta等公司将模型权重开源”这件事情非常担忧
             <ul>
               <li>一个用于类比的例子是核武器，核武器因为制造材料的获取非常困难，并且政府会限制制造材料的扩散，所以没有让威力巨大的武器落入危险人员之手。</li>
@@ -2309,12 +2229,8 @@ Todo</p>
       </li>
       <li>红杉中国xbench测试工具
         <ul>
-          <li>
-            <p><a href="https://xbench.org/">产品主页</a></p>
-          </li>
-          <li>
-            <p>根据<a href="https://www.hongshan.com/article/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e6%88%91%e4%bb%ac%e6%8e%a8%e5%87%baxbench/">报道</a>，该平台主要针对垂直专业、产业场景进行测试，由行业专家出题测试，贴近产业需求，具有较强的实践指导意义。</p>
-          </li>
+          <li><a href="https://xbench.org/">产品主页</a></li>
+          <li>根据<a href="https://www.hongshan.com/article/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e6%88%91%e4%bb%ac%e6%8e%a8%e5%87%baxbench/">报道</a>，该平台主要针对垂直专业、产业场景进行测试，由行业专家出题测试，贴近产业需求，具有较强的实践指导意义。</li>
         </ul>
       </li>
       <li>LiveCodeBench: Contamination free 可防止测试集污染
@@ -2355,17 +2271,10 @@ Todo</p>
 <h3 id="221-ai推理能力是新时代的电力吗">2.2.1 AI推理能力是新时代的电力吗？</h3>
 
 <ul>
-  <li>
-    <p>AI 是类似电力一样的即时生产力，几乎不受地域和文化的限制，可以做到全球共享。这导致了AI作为生产力的两个属性，其一是全产业化，其二是全球化。AI 作为通用生产力，使得中国 AI 公司自创立之初便具备全球化特质。</p>
-  </li>
-  <li>
-    <p>AI 作为一种能够提高生产效率的要素，其本质就像电力，需要工具作为其生产力的载体。OpenAI、Google像是新时代的”发电技术”的创造者，数据中心就是”发电厂”的硬件基础设施，但除此之外，AI应用仍需要以产品的形式，进入各个领域，这里面有非常多的机会。</p>
-  </li>
-  <li>
-    <p>对于趋势的判断是：AI模型的推理能力将最终收敛，即不同公司的模型能力最终将不会有非常大的差距，而且开源模型的能力将有可能和闭源模型的表现相当，因此AI推理价格将会因为充分市场竞争而降低，直到达到市场均衡。最终模型推理能力将如同电力、网络一般，成为社会公众可负担的基础公共资源/基础设施。</p>
-  </li>
-  <li>
-    <p>此种趋势判断的事实依据是</p>
+  <li>AI 是类似电力一样的即时生产力，几乎不受地域和文化的限制，可以做到全球共享。这导致了AI作为生产力的两个属性，其一是全产业化，其二是全球化。AI 作为通用生产力，使得中国 AI 公司自创立之初便具备全球化特质。</li>
+  <li>AI 作为一种能够提高生产效率的要素，其本质就像电力，需要工具作为其生产力的载体。OpenAI、Google像是新时代的”发电技术”的创造者，数据中心就是”发电厂”的硬件基础设施，但除此之外，AI应用仍需要以产品的形式，进入各个领域，这里面有非常多的机会。</li>
+  <li>对于趋势的判断是：AI模型的推理能力将最终收敛，即不同公司的模型能力最终将不会有非常大的差距，而且开源模型的能力将有可能和闭源模型的表现相当，因此AI推理价格将会因为充分市场竞争而降低，直到达到市场均衡。最终模型推理能力将如同电力、网络一般，成为社会公众可负担的基础公共资源/基础设施。</li>
+  <li>此种趋势判断的事实依据是
     <ul>
       <li>
         <p>模型推理价格方面，根据任务的不同，LLM 推理价格每年下降 9 到 900 倍不等。2024年模型推理价格继续下降。此外，AI推理价格下降速度远超电力、计算机存储芯片。</p>
@@ -2376,21 +2285,21 @@ Todo</p>
       </li>
       <li>
         <p>DeepSeek-R1模型的推理价格远低于Google/OpenAI/Claude的产品，约为前者的1/4，在模型表现拉不开巨大差距的前提下，已经”杀死比赛”。开源模型的推理价格普遍低于闭源模型。</p>
-
         <ul>
-          <li>2025年6月11日OpenAI将o3价格下调至Input price USD 2/  1M tokens, Output price USD 8/ 1M tokens</li>
+          <li>
+            <p>2025年6月11日OpenAI将o3价格下调至Input price USD 2/  1M tokens, Output price USD 8/ 1M tokens</p>
+
+            <p><img src="/image/2_2_1/inference_cost_drop_2.png" style="zoom:33%;" /></p>
+
+            <p><img src="/image/2_2_1/model_api_price.PNG" style="zoom: 80%;" /></p>
+          </li>
         </ul>
-
-        <p><img src="/image/2_2_1/inference_cost_drop_2.png" style="zoom:33%;" /></p>
-
-        <p><img src="/image/2_2_1/model_api_price.PNG" style="zoom: 80%;" /></p>
       </li>
     </ul>
   </li>
 </ul>
 
 <h3 id="222-数据飞轮与产品护城河如何建立套壳产品的持续竞争力">2.2.2 数据飞轮与产品护城河——如何建立”套壳”产品的持续竞争力？</h3>
-
 <ul>
   <li>在诸多AI产品公司自己不研发基础模型，而是采用调用API/微调的方式进行”套壳”做出产品的情况下，其用户产生的数据，以及通过使用用户产生的数据进一步提升模型能力/用户体验的能力，将会是AI产品公司的重要护城河</li>
   <li>“回顾互联网的发展史，最早的创业者大多是程序员，代码是第一生产力，随着进入下半场，产品经理和商业化大牛开始成为创业的主力军。AI 时代也是一样，在技术天才和专家奠定基础能力、基础设施之后，未来一定是产品经理和商业化创新的大牛入局，成为新的领头羊。”</li>
@@ -2399,9 +2308,7 @@ Todo</p>
 <h3 id="223-初创公司的机会在哪里克服大厂恐惧症">2.2.3 初创公司的机会在哪里？——克服”大厂恐惧症”</h3>
 
 <ul>
-  <li>
-    <p>Cursor</p>
-  </li>
+  <li>Cursor</li>
   <li>a16z
     <ul>
       <li><a href="https://www.youtube.com/watch?v=we9mNqAW_5I">The State of Consumer Tech in the Age of AI</a></li>
@@ -2426,6 +2333,17 @@ Todo</p>
 <ul>
   <li>“产业派”因为过往的积累，更熟悉产业放的需求，有相关的资源，更容易找到和促成能够落地的商业场景，应该和和”学院派”做好优势区分，找到优势区间。</li>
   <li>“学院派”在技术、资本方面更有优势，”产业派”在技术方面或许稍有劣势，但产品、市场方面有”学院派”不具备的长处。</li>
+  <li>具身智能的商业机会
+    <ul>
+      <li>
+        <p>中国拥有全世界最多的工业机器人安装量，因此也有最大的具身智能落地需求和应用场景。</p>
+
+        <p><img src="/image/2_2_4/industrial_robot_install_1.png" style="zoom: 33%;" /></p>
+
+        <p><img src="/image/2_2_4/industrial_robot_install_2.png" style="zoom:33%;" /></p>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 <h3 id="225-ai-agent让ai从工具变成员工">2.2.5 AI Agent让AI从工具变成”员工”</h3>
