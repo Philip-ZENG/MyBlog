@@ -581,6 +581,9 @@ document.addEventListener('DOMContentLoaded', function() {
     if (currentSection && headingMap.has(currentSection)) {
       headingMap.get(currentSection).classList.add('active');
     }
+
+    // Reset ticking so scroll can trigger again
+    ticking = false;
   }
 
   // Update active section on scroll with throttling for better performance
