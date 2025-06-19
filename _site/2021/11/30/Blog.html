@@ -641,6 +641,24 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<!-- MathJax for LaTeX math rendering -->
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script type="text/javascript">
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    ignoreHtmlClass: 'tex2jax_ignore',
+    processHtmlClass: 'post-content'
+  }
+};
+</script>
+
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>

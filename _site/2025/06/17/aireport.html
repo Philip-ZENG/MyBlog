@@ -1935,9 +1935,7 @@ Todo</p>
       </li>
     </ul>
   </li>
-  <li>
-    <p>模仿学习（Imitation Learning）</p>
-  </li>
+  <li>模仿学习（Imitation Learning）</li>
   <li>遥操作</li>
 </ul>
 
@@ -1976,13 +1974,9 @@ Todo</p>
               <li>仿真能生效的底层原则：如果机器人能在一百万个世界中解决某个问题，那么它大概率也能在第一百万零一个世界（即现实世界）里解决这个问题。</li>
             </ul>
           </li>
-          <li>
-            <p>Simulation 1.5：基于生成式物理引擎（Generative Physics Engine）的数字表亲（Digital Cousin）仿真</p>
-
+          <li>Simulation 1.5：基于生成式物理引擎（Generative Physics Engine）的数字表亲（Digital Cousin）仿真
             <ul>
-              <li>
-                <p>用3D生成模型模型生成数字世界里的物体的3D建模，用Diffusion模型生成物品纹理。由人类佩戴VR设备进行遥操作（Teleoperation）控制在仿真世界中的机器人，收集遥操作中机器人关节的运行轨迹数据。此外可以在仿真环境中添加光照效果，调整运行轨迹数据创造新的动作（比如将杯子从A移到B的动作数据经过调整后就可以变成将杯子从C移到D的动作数据）。论文”<a href="https://robocasa.ai/">RoBoCASA</a>“使用了该方法。</p>
-              </li>
+              <li>用3D生成模型模型生成数字世界里的物体的3D建模，用Diffusion模型生成物品纹理。由人类佩戴VR设备进行遥操作（Teleoperation）控制在仿真世界中的机器人，收集遥操作中机器人关节的运行轨迹数据。此外可以在仿真环境中添加光照效果，调整运行轨迹数据创造新的动作（比如将杯子从A移到B的动作数据经过调整后就可以变成将杯子从C移到D的动作数据）。论文”<a href="https://robocasa.ai/">RoBoCASA</a>“使用了该方法。</li>
               <li>
                 <p>这个方法可以将1个人类遥操作收集的动作demo，置入N个环境中，并且根据这1个demo生成M个动作。最终将1个demo扩展为$1 \times N \times M$个训练数据。</p>
 
@@ -1990,13 +1984,9 @@ Todo</p>
               </li>
             </ul>
           </li>
-          <li>
-            <p>Simulation 2.0：基于神经物理模型（Neural Physics Engine）的数字游民（Digital Nomad）仿真</p>
-
+          <li>Simulation 2.0：基于神经物理模型（Neural Physics Engine）的数字游民（Digital Nomad）仿真
             <ul>
-              <li>
-                <p>将开源的通用目的的Diffusion视频生成模型在机器人领域的数据上进行微调，此后就可以输入文字生成未来机器人动作的视频。生成的视频可以正确的展现物体的反光效果、机器人和物体的互动结果（碰撞的物理效果等）。</p>
-              </li>
+              <li>将开源的通用目的的Diffusion视频生成模型在机器人领域的数据上进行微调，此后就可以输入文字生成未来机器人动作的视频。生成的视频可以正确的展现物体的反光效果、机器人和物体的互动结果（碰撞的物理效果等）。</li>
               <li>
                 <p>可以非常简单低成本的生成无数个“平行宇宙”，其场景和动作的多元性非常高。</p>
 
@@ -3028,6 +3018,24 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 });
+</script>
+
+<!-- MathJax for LaTeX math rendering -->
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script type="text/javascript">
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+    ignoreHtmlClass: 'tex2jax_ignore',
+    processHtmlClass: 'post-content'
+  }
+};
 </script>
 
       </div>
